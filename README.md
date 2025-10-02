@@ -1,10 +1,18 @@
-# 🚀 Complete Jac Programming Curriculum
+# 🚀 Learn Jac Programming
 
-A comprehensive learning path for **Jac Programming Language** - from basic syntax to advanced real-world applications including GUI development, web technologies, AI integration, and production deployment.
+> *A complete learning curriculum for Jac Programming Language*  
+> **From basics to advanced real-world applications**
 
 [![Jac Version](https://img.shields.io/badge/Jac-Latest-blue.svg)](https://github.com/Jaseci-Labs/jaclang)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Learning Path](https://img.shields.io/badge/Learning%20Path-Complete-orange.svg)](#learning-path)
+[![Author](https://img.shields.io/badge/Author-Mwero%20Abdalla-purple.svg)](https://linkedin.com/in/mwero-the-webmaker)
+
+**Created by:** [Mwero Abdalla](https://linkedin.com/in/mwero-the-webmaker) | **Contact:** [mweroabdalla@gmail.com](mailto:mweroabdalla@gmail.com)
+
+---
+
+A comprehensive learning path for **Jac Programming Language** - covering everything from basic syntax to advanced topics including GUI development, web technologies, AI integration, and production deployment.
 
 ## 📋 Table of Contents
 
@@ -65,8 +73,8 @@ jac --version
 ### 2. Clone This Repository
 
 ```bash
-git clone https://github.com/mwenaro/jac-programming-language-project.git
-cd jac-programming-language-project
+git clone https://github.com/mwenaro/learn-jac-programming.git
+cd learn-jac-programming
 ```
 
 ### 3. Set Up Environment
@@ -397,14 +405,25 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Community Contributors** for examples and feedback
 - **Open Source Community** for inspiration and best practices
 
-## 📞 Support
+## �‍💻 About the Author
 
-- **Issues**: [GitHub Issues](https://github.com/mwenaro/jac-programming-language-project/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/mwenaro/jac-programming-language-project/discussions)
-- **Email**: [mwenaro@example.com](mailto:mwenaro@example.com)
+**Mwero Abdalla** - Full Stack Developer & Educator  
+- **LinkedIn**: [mwero-the-webmaker](https://linkedin.com/in/mwero-the-webmaker)  
+- **Email**: [mweroabdalla@gmail.com](mailto:mweroabdalla@gmail.com)  
+- **GitHub**: [@mwenaro](https://github.com/mwenaro)
+
+*Passionate about making programming education accessible and comprehensive for everyone.*
+
+## �📞 Support
+
+- **Issues**: [GitHub Issues](https://github.com/mwenaro/learn-jac-programming/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/mwenaro/learn-jac-programming/discussions)
+- **Email**: [mweroabdalla@gmail.com](mailto:mweroabdalla@gmail.com)
 
 ---
 
 **Happy coding with Jac! 🚀**
 
 *Start your journey today with `jac jac-01-hello-world.jac` and build amazing applications!*
+
+**Made with ❤️ by [Mwero Abdalla](https://linkedin.com/in/mwero-the-webmaker)**
